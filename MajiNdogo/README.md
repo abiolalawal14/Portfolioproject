@@ -57,7 +57,7 @@ By combining SQL-based queries with Power BI’s visualization capabilities, I w
 ## Dashboard
 [Click here to view the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzA2NDlkOTItZWQyYi00YmQwLWIyZTAtOTZjOTFjY2Y1OTdkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)  
 
-![Dashboard](https://github.com/YourUsername/PortfolioProjects/blob/main/MajiNdogoWater/water_dashboard.png)
+![Dashboard](https://github.com/abiolalawal14/Portfolioproject/blob/master/MajiNdogo/Majindogo.png)
 
 ## Recommendations
 To improve equity and sustainability in water distribution across Maji Ndogo:  
@@ -69,3 +69,4 @@ To improve equity and sustainability in water distribution across Maji Ndogo:
 
 ## Conclusion
 This project demonstrates how **SQL and Power BI** can be combined to transform raw infrastructure data into actionable insights. By visualizing completion rates, costs, and access across provinces, the analysis supports **data-driven decision-making** that improves transparency, ensures equity, and accelerates progress toward universal clean water access.  
+
