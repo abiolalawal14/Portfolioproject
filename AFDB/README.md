@@ -16,9 +16,9 @@
 ---
 
 ## 📊 Dashboard Preview
-[🔗 View the interactive dashboard](#)
+[🔗 View the interactive dashboard](https://app.powerbi.com/links/lw-4taahVr?ctid=940b29f2-18a4-4aad-9354-e83cbb13f27d&pbi_source=linkShare)
 
-![Dashboard](your-dashboard-screenshot.png)
+![Dashboard](afdb.png)
 
 ---
 
@@ -81,4 +81,5 @@ This analysis highlights AfDB’s **large-scale portfolio** and **strong complet
 - Replace `your-dashboard-screenshot.png` with your actual dashboard image file name.  
 - Update any numeric figures to the final values from your Excel workbook if you make further adjustments.  
 - If you'd like, I can also generate a small `README` image banner or add themed badges for each of the High 5 priorities.
+
 
